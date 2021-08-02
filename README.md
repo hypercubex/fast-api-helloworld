@@ -17,3 +17,7 @@ MacOS
 1. write main.py
 1. `uvicorn main:app --reload`
 1. visit localhost:8000
+
+## Reference
+
+<https://codingnomads.co/blog/python-fastapi-tutorial>
