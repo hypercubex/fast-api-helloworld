@@ -5,6 +5,4 @@ services:
       container_name: "hellow-world-container"
       ports:
         - "8000:8000"
-      volumes:
-          - ./app/:/app
 
